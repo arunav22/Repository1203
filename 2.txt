@@ -2,3 +2,4 @@
 Hello
 Updated line - DG
 AC
+DG - new conflict
